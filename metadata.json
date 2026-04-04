@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Manager English Coach",
+  "description": "KI-gestütztes Englischtraining für angehende Manager mit Echtzeit-Coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
